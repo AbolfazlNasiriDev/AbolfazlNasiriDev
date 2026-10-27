@@ -1,58 +1,61 @@
 
 <div align="center">
 
-# Abolfazl Nasiri
+<br/>
 
-**Python Developer · Backend & Web Development**
+# ABOLFAZL NASIRI
 
-Building my skills. Exploring technology. Creating what's next.
+### `PYTHON DEVELOPER`
+
+*Backend Engineering · Web Technologies · Problem Solving*
 
 <br/>
 
 <a href="https://github.com/AbolfazlNasiriDev">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python developer"/>
-<img src="https://img.shields.io/badge/Open%20to-Learning-7C3AED?style=flat-square" alt="Open to learning"/>
-
-</div>
-
----
-
-## About Me
-
-I'm Abolfazl, a developer interested in Python, backend engineering, and modern web technologies.
-
-- **Backend:** Python, FastAPI, SQL
-- **Frontend:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, Windows
-- **Mindset:** Continuous learning and practical problem-solving
-
-I believe in writing clean code, learning by doing, and improving one step at a time.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,sqlite,mysql&theme=dark&perline=7" alt="Programming and web technologies"/>
+<a href="https://github.com/AbolfazlNasiriDev?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=79C0FF" alt="Repositories"/>
+</a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark&perline=4" alt="Developer tools"/>
+</div>
+
+---
+
+### `01` &nbsp; / &nbsp; PROFILE
+
+I'm Abolfazl, a developer passionate about Python and building useful software.
+
+Currently improving my skills in backend development, databases, and web technologies — one step at a time.
+
+- **Focus** — Python & Backend Development
+- **Web** — HTML · CSS · JavaScript
+- **Database** — SQL
+- **Tools** — Git · GitHub · Windows
+
+---
+
+### `02` &nbsp; / &nbsp; TECHNOLOGIES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js&theme=dark" alt="Python and web technologies"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,windows&theme=dark" alt="Databases and development tools"/>
 
 </div>
 
 ---
 
-## GitHub Overview
+### `03` &nbsp; / &nbsp; GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbolfazlNasiriDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNasiriDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&langs_count=6" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbolfazlNasiriDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=79C0FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNasiriDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&langs_count=6" alt="Most used languages"/>
 
 </div>
 
@@ -60,12 +63,14 @@ I believe in writing clean code, learning by doing, and improving one step at a 
 
 <div align="center">
 
-### The journey is just beginning.
+### BUILDING MY FUTURE, ONE LINE AT A TIME.
 
-*Learn continuously. Build thoughtfully. Keep improving.*
+<sub>Stay curious. Write clean code. Never stop learning.</sub>
 
-<a href="https://github.com/AbolfazlNasiriDev?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=79C0FF" alt="Explore GitHub"/>
+<br/><br/>
+
+<a href="https://github.com/AbolfazlNasiriDev">
+  <img src="https://img.shields.io/badge/CONNECT_ON_GITHUB-79C0FF?style=flat-square&logo=github&logoColor=0D1117" alt="Connect on GitHub"/>
 </a>
 
 </div>
