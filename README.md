@@ -1,26 +1,19 @@
 
 <div align="center">
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,50:818CF8,100:C084FC" width="100%" alt=""/>
-
-<br/>
-
 # Abolfazl Nasiri
 
-### `PYTHON DEVELOPER`
+### Python Developer
 
-**Backend Development · Web Technologies · Software Engineering**
+`BACKEND` &nbsp; · &nbsp; `WEB` &nbsp; · &nbsp; `SOFTWARE`
 
 <br/>
 
 <a href="https://github.com/AbolfazlNasiriDev">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=79C0FF" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=79C0FF" alt="GitHub"/>
 </a>
-<a href="https://github.com/AbolfazlNasiriDev?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Repositories-0D1117?style=for-the-badge&logo=github&logoColor=C084FC" alt="Repositories"/>
-</a>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=79C0FF" alt="Python"/>
+<img src="https://img.shields.io/badge/Always_Learning-0D1117?style=flat-square&logo=bookstack&logoColor=C4B5FD" alt="Always learning"/>
 
 <br/><br/>
 
@@ -30,41 +23,31 @@
 
 <div align="right">
 
-## سلام، من ابوالفضلم 👋
+### سلام، من ابوالفضلم.
 
-برنامه‌نویسی برای من مسیری برای یادگیری، حل مسئله و تبدیل ایده‌ها به نرم‌افزار است.
-
-در حال توسعه مهارت‌هایم در پایتون، بک‌اند، پایگاه داده و فناوری‌های وب هستم و می‌خواهم با ساخت پروژه‌های واقعی، تجربه بیشتری به دست بیاورم.
+به برنامه‌نویسی، حل مسئله و ساخت نرم‌افزار علاقه دارم. در حال یادگیری و تقویت مهارت‌هایم در پایتون، توسعه بک‌اند و فناوری‌های وب هستم.
 
 </div>
 
-## About Me
+### About
 
-I'm Abolfazl, a developer interested in Python, backend engineering, and web technologies.
+I'm a developer focused on learning Python, backend development, and web technologies through practice.
 
-My focus is on strengthening my fundamentals, learning through practice, and gradually building useful software.
-
-- **Primary language:** Python
-- **Backend:** FastAPI and REST API concepts
-- **Web:** HTML, CSS, JavaScript
-- **Database:** SQL
-- **Tools:** Git, GitHub, Windows
+I value clean code, continuous learning, and building a strong foundation in software development.
 
 ---
 
 <div align="center">
 
-## TECH STACK
+### TECHNOLOGIES
 
-<sub>LANGUAGES · BACKEND · WEB · TOOLS</sub>
+<br/>
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js&theme=dark" alt="Python, FastAPI and web development"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js&theme=dark" alt="Languages and backend"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,windows&theme=dark" alt="Databases and development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,sqlite,mysql,vscode,windows&theme=dark" alt="Tools and databases"/>
 
 </div>
 
@@ -72,33 +55,21 @@ My focus is on strengthening my fundamentals, learning through practice, and gra
 
 <div align="right">
 
-## مسیر یادگیری من
+### در مسیر یادگیری
 
-- 🐍 تقویت مهارت‌های پایتون و حل مسئله
-- ⚡ یادگیری اصول طراحی API و توسعه بک‌اند
-- 🗄️ کار با پایگاه داده و SQL
-- 🌐 توسعه مهارت‌های طراحی وب
-- 🔧 یادگیری کدنویسی تمیز و مدیریت نسخه با Git
+- تقویت پایتون و حل مسئله
+- یادگیری توسعه بک‌اند و API
+- کار با SQL و پایگاه داده
+- توسعه مهارت‌های وب
+- آشنایی بیشتر با همکاری در پروژه‌های نرم‌افزاری
 
 </div>
 
-## Learning Roadmap
-
-| Area | Current direction |
-|---|---|
-| Python | Programming fundamentals |
-| Backend | APIs and application design |
-| Databases | SQL and data management |
-| Web | Frontend fundamentals |
-| Git & GitHub | Version control and collaboration |
-
----
+### GitHub Activity
 
 <div align="center">
 
-## GITHUB INSIGHTS
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbolfazlNasiriDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=C084FC&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNasiriDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&langs_count=6" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbolfazlNasiriDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=C4B5FD&text_color=C9D1D9" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNasiriDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" width="49%" alt="Top languages"/>
 
 </div>
 
@@ -106,20 +77,12 @@ My focus is on strengthening my fundamentals, learning through practice, and gra
 
 <div align="center">
 
-### BUILD · LEARN · EVOLVE
+**LEARN. BUILD. EVOLVE.**
 
-**یاد بگیر · بساز · پیشرفت کن**
-
-<sub>Every expert was once a beginner.</sub>
-
-<br/><br/>
+یاد بگیر. بساز. پیشرفت کن.
 
 <a href="https://github.com/AbolfazlNasiriDev">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-0D1117?style=for-the-badge&logo=github&logoColor=79C0FF" alt="Connect on GitHub"/>
+  <img src="https://img.shields.io/badge/Find_me_on_GitHub-161B22?style=for-the-badge&logo=github&logoColor=79C0FF" alt="Find me on GitHub"/>
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,50:818CF8,100:22D3EE" width="100%" alt=""/>
 
 </div>
